@@ -8,7 +8,7 @@
 
 import os
 import subprocess
-
+## Hi 
 # ======================================================================
 # If using NCL, need to point to it 
 #set NCARG_ROOT
